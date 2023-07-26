@@ -7,7 +7,6 @@ Esses 3 dashboards permitem uma visão clara das principais métricas ao longo d
 * 1º Dashboard </br>
 
 ![1º Lancamento - Sabedoria Digital](https://github.com/JorgeFerreira09/3-Dashboards-Facebook-Ads/assets/106722825/53a1b691-0cb2-4ab2-aaa1-281695594a23)
-![1º Lançamento - Sabedoria Digital(Facebook) pdf_1](https://github.com/JorgeFerreira09/3-Dashboards-Facebook-Ads/assets/106722825/3a5ef6d7-961c-4b74-abcb-c38b8fe7f329)  
 </br>
 
 * 2º Dashboard </br>
